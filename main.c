@@ -65,9 +65,9 @@ double plotCSV(FILE *input, double x[], double y[], double b, int count) {
 }
 
 int main() {
-    FILE *input = fopen("dataset.txt", "r");
+    FILE *input = fopen("dataset.csv", "r");
     if (input == NULL) {
-        printf("Error: Cannot open dataset.txt\n");
+        printf("Error: Cannot open dataset.csv\n");
         return 1;
     }
     
