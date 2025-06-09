@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "bitset": "c",
+        "iterator": "c",
+        "xhash": "c",
+        "xmemory": "c",
+        "xtree": "c",
+        "xutility": "c",
+        "format": "c"
+    }
+}
